@@ -1,1 +1,2 @@
-# BookMovieAppProject
+# BookMovieApp
+React Assignment Project
